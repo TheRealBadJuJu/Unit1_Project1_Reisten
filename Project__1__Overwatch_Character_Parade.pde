@@ -1,3 +1,11 @@
+/*
+Name: Julius Reisten
+
+In this project 8 overwatch characters walk across the screen in a parade
+
+*/
+
+
 int x=400;
 int y=400;
 int m=0;
