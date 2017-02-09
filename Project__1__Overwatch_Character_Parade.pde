@@ -31,7 +31,7 @@ PImage Ana;
 
 void setup()
 {
- size(1366,768);
+ fullScreen();
  Logo = loadImage("Overwatch.png");
  imageMode(CENTER);
  Sombra = loadImage("Sprays2.png");
